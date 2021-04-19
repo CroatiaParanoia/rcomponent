@@ -9,3 +9,9 @@ module.exports = {
     "@storybook/preset-create-react-app"
   ]
 }
+
+
+const phoneNumber = [
+  '176-2048-1357',
+  '176-0300-1357',
+]
